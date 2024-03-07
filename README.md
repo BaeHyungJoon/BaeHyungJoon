@@ -1,3 +1,5 @@
+# Hi, Welcome to my github page!
+
 - 👋 Hi, I’m HyungJoon Bae
 - 👀 I’m interested in machine learning and deep learning
 - 🌱 I’m currently learning reinforcement learning
