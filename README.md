@@ -1,4 +1,12 @@
-# Hi, Welcome to my github page!
+# Hi, I'm Hyungjoon Bae! 😊
+
+Computer Science
+
+
+
+
+
+
 
 - 👋 Hi, I’m HyungJoon Bae
 - 👀 I’m interested in machine learning and deep learning
