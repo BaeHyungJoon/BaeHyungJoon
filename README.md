@@ -17,3 +17,7 @@
 * DGIST Motion Control Lab Internship (Dec 2021 ~ Feb 2022)
 * DGIST NC Lab Internship (Jan 2020 ~ Feb 2020)
 * UC BERKELEY Exchange student program (Jun 2019 ~ Aug 2019)
+
+---
+
+### Skills
