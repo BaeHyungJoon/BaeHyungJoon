@@ -1,18 +1,9 @@
 # Hi, I'm Hyungjoon Bae! 😊
 
-Computer Science
+### About me
+
+* 🚀 Majoring in Computer Engineering at [DGIST](https://dgist.ac.kr/;jsessionid=2F85638F6224C216BAD3289F5647F962) 
+* 👀 interested in Data Science, ML/DL
 
 
-
-
-
-
-
-- 👋 Hi, I’m HyungJoon Bae
-- 👀 I’m interested in machine learning and deep learning
-- 🌱 I’m currently learning reinforcement learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me
-
-#### EXPERIENCE
-* Harvard Medical School
+---
