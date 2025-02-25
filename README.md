@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Hyungjoon Bae! 😊</h1>
 <p align="center">
-  🚀 AI Engineer | 🧠 Deep Learning Enthusiast | 🏆 Open Source Contributor
+  🚀 AI Engineer | 🧠 Deep Learning Enthusiast
 </p>
 
 ---
@@ -48,20 +48,6 @@
 🛠 **ML Ops**: ![Weights & Biases](https://img.shields.io/badge/WandB-FFCC33?style=flat&logo=weightsandbiases&logoColor=black)  
 📊 **Data Science**: ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
 
----
-
-### 📌 Open Source Contributions
-🔹 **[Hugging Face Transformers](https://github.com/huggingface/transformers/pulls?q=is%3Apr+author%3Ayourusername+is%3Amerged)** - Contributed bug fixes & optimizations.  
-🔹 **[Detectron2](https://github.com/facebookresearch/detectron2/pulls?q=is%3Apr+author%3Ayourusername+is%3Amerged)** - Added improvements for model inference speed.  
-🔹 **[PyTorch Lightning](https://github.com/Lightning-AI/lightning/pulls?q=is%3Apr+author%3Ayourusername+is%3Amerged)** - Fixed documentation and minor bug fixes.  
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" height="160px"/>
-</p>
 
 ---
 
