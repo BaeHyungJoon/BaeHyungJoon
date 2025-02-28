@@ -85,7 +85,3 @@
 </div>
 
 ---
-
-⭐️ _Feel free to explore my repositories and contribute to open-source AI projects!_ 🚀
-
-
