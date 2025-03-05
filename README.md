@@ -11,8 +11,7 @@
 ## 🌟 About Me  
 - 🚀 **Major in Computer Engineering at** [DGIST](https://dgist.ac.kr/;jsessionid=2F85638F6224C216BAD3289F5647F962)  
 - 👀 **Interested in Data Science, ML/DL**  
-- 💡 Passionate about **applying AI to real-world problems**  
-- 🏆 **Actively contributing to open-source AI projects**  
+- 💡 Passionate about **applying AI to real-world problems**   
 
 ---
 
